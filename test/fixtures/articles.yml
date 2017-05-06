@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  writer: MyString
+  fiction: MyString
+  comedy: MyString
+
+two:
+  writer: MyString
+  fiction: MyString
+  comedy: MyString
